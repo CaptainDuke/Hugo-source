@@ -40,7 +40,7 @@ I will be a postgraduate student majoring in Computer Science at [The University
 
 Before coming here, I was a research assistant at [South China University of Technology][2], working with [Prof. Yong Xu][6] and [Associate Prof. Haibin Ling][7]. We were mainly focusing on human action recognition in static images and dynamic videos, using the combination model of CNNs and LSTMs. 
 
-During undergraduate years, I went to [Rutgers, the State University of New Jersey][3] with scholarships for Student Research Summer Program, where I engaged in Auto-Navigation Robotics projects. I got my BEng. at South China University of Technology in 2017. For more information, please see my [Curriculum Vitae].  
+During undergraduate years, I went to [Rutgers, the State University of New Jersey][3] with scholarships for Student Research Summer Program, where I engaged in Auto-Navigation Robotics projects. I got my BEng. at South China University of Technology in 2017. For more information, please see my {{% staticref "files/cv.pdf" %}}Curriculum Vitae{{% /staticref %}}.  
 
 [1]: https://ai.tencent.com/ailab     "Tencent"
 [2]: https://www.scut.edu.cn/new/  "SCUT"

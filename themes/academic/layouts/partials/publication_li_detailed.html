@@ -41,9 +41,15 @@
     {{ .Params.publication_short | markdownify }},
     {{ else if .Params.publication }}
     {{ .Params.publication | markdownify }},
-    {{ end }}
     {{ .Date.Format "2006" }}
+    {{ else if .Params.institute }}
+    {{ .Params.institute | markdownify }},
+    {{ end }}
+    
   </div>
+
+
+
 
   <div class="pub-links">
     {{ partial "publication_links" (dict "content" . "is_list" 1) }}

@@ -19,17 +19,17 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MS. Computer Science"
-  institution = "The University of Hong Kong"
+  institution = "The University of Hong Kong.      --Hong Kong"
   year = 2018
 
 [[education.courses]]
   course = "Student Research Summer Program"
-  institution = "Rutgers, the State University of New Jersey"
+  institution = "Rutgers, the State University of New Jersey. --USA"
   year = 2016
 
 [[education.courses]]
-  course = "BEng. Electronic & Information Engineering"
-  institution = "South China University of Technology"
+  course = "BEng. Electronic & Information Eng."
+  institution = "South China University of Technology.    --China"
   year = 2013
  
 +++

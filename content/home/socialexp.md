@@ -16,20 +16,20 @@ weight = 35
 
 
 ## **Professional Experience**
-#### *AI-Lab Tencent*
+#### [*AI-Lab Tencent*](https://ai.tencent.com/ailab/)
 - *Intern* since April. 2018
 - Mainly focus on computer vision and deep learning related research works
 - Engaged in deploying models from academic papers into industry products
 - Two patent applications in *face liveness detection* made during this period
 
 
-#### *Shinyway Education*
+#### [*Shinyway Education*](http://www.igo.cn/english/)
 - *Part-time Teacher* in Computer Science since April. 2018
 - Teaching C++, Python, Algorithms etc.
 
 ## **Social Experience**
 
-#### *British Council*
+#### [*British Council*](https://www.britishcouncil.cn/en)
 <!-- ![d](https://help.github.com/assets/images/site/favicon.ico "logo") -->
 - *Invigilator* of CFA/ACCA exams. June. 2017 - March. 2018
 - Participate in exam groups and assist the process of exams

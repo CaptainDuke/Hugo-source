@@ -111,4 +111,6 @@ caption = "During the lecture"
 &nbsp; 
 # Video Report by Rutgers News
 ---
+Note: If you have problems watching following YouTube video, please [click here via YouKu](https://v.youku.com/v_show/id_XMzY5NDM3OTY1Ng==.html?spm=a2h3j.8428770.3416059.1).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I4NudbNBUHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---

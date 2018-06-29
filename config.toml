@@ -268,7 +268,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Socail"
+  name = "Experience"
   url = "#socialexp"
   weight = 4
 
